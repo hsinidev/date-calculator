@@ -1,4 +1,4 @@
-# Doodax Date Calculator 🚀
+#Date Calculator 🚀
 
 **The Ultimate Precision Time Analysis Tool**
 
@@ -14,7 +14,7 @@
 
 Experience the power of Doodax live:
 <br />
-👉 **[https://doodax.com](https://doodax.com)** _(Opens in a new tab)_
+👉 **[https://doodax.com](https://doodax.com/tools/date-calculator/index.html)** _(Opens in a new tab)_
 
 ## ✨ Key Features
 
